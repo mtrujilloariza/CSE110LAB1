@@ -37,4 +37,4 @@ TODO:
 - [x] Finish this lab
 - [ ] Finish this class
 
-[Take me to top](#Welcome-to-this-page.)
+[Take me to top](#welcome-to-this-page.)
